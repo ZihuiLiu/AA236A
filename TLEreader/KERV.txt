@@ -1,0 +1,12 @@
+Keplarian (Orbital) Elements:
+i: 0.9014  (rad)
+RAAN: 6.1275  (rad)
+e: 0.0000395
+a: 6796.9
+Argument of Perigee: 5.4705  (rad)
+Mean Anomaly: 1.3959  (rad)
+Mean Motion: 0.0011
+True Anomaly: 0.0244  (rad)
+ 
+r_vec = [ 4270.2 -3697.7 -3779.7 ] (km)
+v_vec = [ 5.8848 2.4678 4.2342 ] (km/s)
